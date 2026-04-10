@@ -20,7 +20,7 @@
 
 ### My configs
 
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="VScode-Settings">VScode-Settings</a> (Settings, snippets, keybindings)<br>
+📂 <a href="https://github.com/connact-community/VScode-Settings/tree/main" target="_blank" rel="noopener noreferrer" alt="VScode-Settings">VScode-Settings</a> (Settings, snippets, keybindings)<br>
 
 ---
 
